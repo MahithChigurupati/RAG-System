@@ -12,8 +12,8 @@ A straightforward RAG system that processes PDF documents and answers questions 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone git@github.com:MahithChigurupati/RAG-System.git
+cd RAG-System
 ```
 
 2. Create and activate virtual environment:
