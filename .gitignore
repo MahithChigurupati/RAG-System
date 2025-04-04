@@ -1,0 +1,26 @@
+# Virtual Environment
+.env
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# FAISS index files
+faiss_index/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# PDF content
+content/
